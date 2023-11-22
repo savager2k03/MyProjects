@@ -1,4 +1,4 @@
-## A collection of my hobby works
+# A collection of my hobby works
 - [Inventory Management System using Tkinter and MySQL](./Inventory%20Management%20System/)
 ![](./assets/inventory_management_system.png)
 ---
